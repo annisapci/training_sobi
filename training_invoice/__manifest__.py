@@ -4,11 +4,10 @@
     'description': """
         Created by SAR & AM
     """,
-    'author' : 'SAR',
+    'author' : 'SAR & AM',
     'category': 'Accounting',      
     'depends' : ['account'],
     'data': [
-        'views/account_report_views.xml',
         'views/report_invoice_views.xml',
         'views/account_invoice_views.xml',
     ],
